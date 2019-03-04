@@ -8,9 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "F0046": [
     { "id": 1, "TextHeader": "MsgTitle_1", "TextMessage": "This is message from Msg 1" },
     { "id": 2, "TextHeader": "MsgTitle_2", "TextMessage": "This is message from Msg 2" },
