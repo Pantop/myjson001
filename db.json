@@ -10,5 +10,19 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "F0046": [
+    { "id": 1, "TextHeader": "MsgTitle_1", "TextMessage": "This is message from Msg 1" },
+    { "id": 2, "TextHeader": "MsgTitle_2", "TextMessage": "This is message from Msg 2" },
+    { "id": 3, "TextHeader": "MsgTitle_3", "TextMessage": "This is message from Msg 3" }
+    { "id": 4, "TextHeader": "MsgTitle_4", "TextMessage": "This is message from Msg 4" }
+    { "id": 5, "TextHeader": "MsgTitle_5", "TextMessage": "This is message from Msg 5" }
+  ],
+  "T0050": [
+    { "id": 1, "TextHeader": "Table 01", "Columns": {"id", "name", "addr", "tel"} },
+    { "id": 2, "TextHeader": "Table 02", "Columns": {"id", "cus_name", "amount", "remark"} },
+    { "id": 3, "TextHeader": "Table 03", "Columns": {"id", "com_name", "com_addr", "com_tel"} },
+    { "id": 4, "TextHeader": "Table 04", "Columns": {"id", "name4", "addr4", "tel4"} },
+    { "id": 5, "TextHeader": "Table 05", "Columns": {"id", "name5", "addr5", "tel5"} },
+  ]
 }
