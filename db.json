@@ -9,20 +9,20 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "F0046": 
-    { "id": 1, "TextHeader": "MsgTitle_1", "TextMessage": "This is message from Msg 1" }
+    { "id": 101, "textHeader": "MsgTitle_1", "textMessage": "This is message from Msg 1" }
     ,
     "A0046": [
-    { "id": "W0001", "TextHeader": "MsgTitle_1", "TextMessage": "This is message from Msg 1" },
-    { "id": "W0002", "TextHeader": "MsgTitle_2", "TextMessage": "This is message from Msg 2" },
-    { "id": "W0003", "TextHeader": "MsgTitle_3", "TextMessage": "This is message from Msg 3" },
-    { "id": "W0004", "TextHeader": "MsgTitle_4", "TextMessage": "This is message from Msg 4" },
-    { "id": "W0005", "TextHeader": "MsgTitle_5", "TextMessage": "This is message from Msg 5" }
+    { "id": "W0001", "textHeader": "MsgTitle_1", "textMessage": "This is message from Msg 1" },
+    { "id": "W0002", "textHeader": "MsgTitle_2", "textMessage": "This is message from Msg 2" },
+    { "id": "W0003", "textHeader": "MsgTitle_3", "textMessage": "This is message from Msg 3" },
+    { "id": "W0004", "textHeader": "MsgTitle_4", "textMessage": "This is message from Msg 4" },
+    { "id": "W0005", "textHeader": "MsgTitle_5", "textMessage": "This is message from Msg 5" }
   ],
   "T0050": [
-    { "id": 1, "TextHeader": "Table 01", "Columns": ["id", "name", "addr", "tel"] },
-    { "id": 2, "TextHeader": "Table 02", "Columns": ["id", "cus_name", "amount", "remark"] },
-    { "id": 3, "TextHeader": "Table 03", "Columns": ["id", "com_name", "com_addr", "com_tel"] },
-    { "id": 4, "TextHeader": "Table 04", "Columns": ["id", "name4", "addr4", "tel4"] },
-    { "id": 5, "TextHeader": "Table 05", "Columns": ["id", "name5", "addr5", "tel5"] }
+    { "id": 1, "textHeader": "Table 01", "columns": ["id", "name", "addr", "tel"] },
+    { "id": 2, "textHeader": "Table 02", "columns": ["id", "cus_name", "amount", "remark"] },
+    { "id": 3, "textHeader": "Table 03", "columns": ["id", "com_name", "com_addr", "com_tel"] },
+    { "id": 4, "textHeader": "Table 04", "columns": ["id", "name4", "addr4", "tel4"] },
+    { "id": 5, "textHeader": "Table 05", "columns": ["id", "name5", "addr5", "tel5"] }
   ]
 }
