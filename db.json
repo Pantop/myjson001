@@ -8,13 +8,9 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "F0046": [
-    { "id": 1, "TextHeader": "MsgTitle_1", "TextMessage": "This is message from Msg 1" },
-    { "id": 2, "TextHeader": "MsgTitle_2", "TextMessage": "This is message from Msg 2" },
-    { "id": 3, "TextHeader": "MsgTitle_3", "TextMessage": "This is message from Msg 3" },
-    { "id": 4, "TextHeader": "MsgTitle_4", "TextMessage": "This is message from Msg 4" },
-    { "id": 5, "TextHeader": "MsgTitle_5", "TextMessage": "This is message from Msg 5" }
-  ],
+  "F0046": 
+    { "id": 1, "TextHeader": "MsgTitle_1", "TextMessage": "This is message from Msg 1" }
+    ,
     "A0046": [
     { "id": "W0001", "TextHeader": "MsgTitle_1", "TextMessage": "This is message from Msg 1" },
     { "id": "W0002", "TextHeader": "MsgTitle_2", "TextMessage": "This is message from Msg 2" },
